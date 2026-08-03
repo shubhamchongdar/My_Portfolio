@@ -1,4 +1,4 @@
-#My Portfolio
+
 **Shubham Chongdar | Data Analyst Portfolio 📊**
 
 Welcome to the repository for my personal Data Analyst portfolio website.
